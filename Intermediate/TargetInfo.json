@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ToonTanks",
+			"Path": "C:\\Users\\jesmp\\Documents\\Architecture_Software\\C++\\Projcts\\ToonTanks\\Source\\ToonTanks.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ToonTanksEditor",
+			"Path": "C:\\Users\\jesmp\\Documents\\Architecture_Software\\C++\\Projcts\\ToonTanks\\Source\\ToonTanksEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

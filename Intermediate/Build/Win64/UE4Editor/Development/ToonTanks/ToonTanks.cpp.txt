@@ -1,0 +1,2 @@
+C:\Users\jesmp\Documents\Architecture_Software\C++\Projcts\ToonTanks\Intermediate\Build\Win64\UE4Editor\Development\ToonTanks\Definitions.ToonTanks.h
+C:\Users\jesmp\Documents\Architecture_Software\C++\Projcts\ToonTanks\Source\ToonTanks\ToonTanks.h
